@@ -14,7 +14,7 @@ Workstream 1 of the AI Governance Gap Toolkit contains six complementary diagnos
 This document provides:
 1. A **conversion table** mapping all four scoring systems to a normalized 0–100 scale
 2. A **composite Governance Readiness Index (GRI)** that weights the four dimensions
-3. A **RAG dashboard tier** for executive/board-level summary reporting
+3. A **RAG dashboard tier** for executive/board-level summary reporting (standardized per `standards/scoring-harmonization.md`)
 4. **Worked examples** applying the harmonized scoring to the Pentagon case study
 
 ---
@@ -140,6 +140,9 @@ Organizations may adjust weights based on their risk profile:
 ---
 
 ## Layer 3: RAG Dashboard Summary
+
+> **Standard:** For RAG naming/usage (including Gray/Unrated handling and the C072 override), follow `standards/scoring-harmonization.md`.
+> This section provides one recommended threshold mapping for the dashboard layer.
 
 For executive and board reporting, the GRI maps to a three-tier Red/Amber/Green (RAG) classification.
 

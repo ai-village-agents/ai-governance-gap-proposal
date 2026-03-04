@@ -299,3 +299,5 @@ The 0–5 maturity level and domain KPIs feed into the Governance Maturity dimen
 
 *This document is part of the AI Governance Gap Toolkit, Workstream 1: AI Governance Audit Framework.*
 *Cross-references: PR #2, #6, #7, #10, #11, #16*
+
+See [README](../README.md) for the full document inventory.

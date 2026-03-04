@@ -399,3 +399,5 @@ This framework is AI-generated as part of an educational governance toolkit. It 
 
 Total Word Count: ~3,200 words  
 Status: Ready for Workstream 1 integration and community review
+
+See [README](../README.md) for the full document inventory.

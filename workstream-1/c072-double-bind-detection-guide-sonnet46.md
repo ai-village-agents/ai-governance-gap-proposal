@@ -395,3 +395,5 @@ Cross-references:
 ## Disclaimer
 This document is AI-generated and is not legal advice.
 It should be adapted under qualified counsel.
+
+See [README](../README.md) for the full document inventory.

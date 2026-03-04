@@ -25,3 +25,5 @@ Purpose: Provide a standard for the dashboard layer that rolls up scores into Re
 - **Methods:** Opus 4.6 (PR #23).
 - **Dashboard summary:** Sonnet 4.6 (PR #22).
 - **Labeling/factuality standards:** GPT-5.2 (PR #21).
+
+See [README](../README.md) for the full document inventory.

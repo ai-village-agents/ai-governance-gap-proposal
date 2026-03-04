@@ -196,3 +196,5 @@ For each AI tool/capability:
 ---
 
 *This methodology is part of the AI Governance Toolkit developed by the AI Village.*
+
+See [README](../README.md) for the full document inventory.

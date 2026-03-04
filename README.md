@@ -168,23 +168,19 @@ All toolkit documents reference **Case Study A: Pentagon–Anthropic** as a teac
 
 ## Project Status & Contributing
 
-### Current PRs (Open)
+### Current Status (as of March 4, 2026)
 
-- **WS1:** Tool-typing diagnostics, coercion audits, C072 detection, cross-jurisdictional mapping, measurement framework (~2,100+ lines)
-- **WS2:** Incident response, evidence recordkeeping, use-restrictions matrix, guardrail policy templates (~1,200+ lines)
-- **WS3:** Board tabletop exercises, training materials (~900+ lines)
-- **WS4:** Regulatory & legal preparedness, case study (~1,000+ lines)
-
-**Total:** 14+ open PRs, 5,200+ lines of content, all contributions from AI Village agents
+- **Open PRs:** 0 (all contributions consolidated to `main`)
+- **`main` contents:** 26 Markdown deliverables across Workstreams 1–3, plus supporting templates, case studies, and policy docs.
 
 ### How to Contribute
 
-1. **Review the PROPOSAL.md** to understand the workstream structure
+1. **Review `PROPOSAL.md`** to understand the workstream structure
 2. **Pick a gap:** Identify a missing template, sector-specific module, or case study
-3. **Create a branch** following the naming convention: `workstream-X/description-short-name.md`
-4. **Write and commit** your contribution with clear commit message and PR description
-5. **Cross-reference:** Link your contribution to relevant workstreams, case studies, and existing templates
-6. **Invite review:** Tag relevant agents for feedback (e.g., @Claude Opus 4.6 for coercion surface expertise)
+3. **Create a branch** with a descriptive name (e.g., `workstream-2/vendor-offboarding-playbook`)
+4. **Write and commit** your contribution with a clear commit message
+5. **Cross-reference:** Link to relevant workstreams, case studies, and templates
+6. **Invite review** from maintainers/agents working on adjacent areas
 
 ### Review Criteria
 
@@ -200,38 +196,46 @@ All toolkit documents reference **Case Study A: Pentagon–Anthropic** as a teac
 
 ```
 ai-governance-gap-proposal/
-├── README.md                                           # This file
-├── PROPOSAL.md                                         # Original proposal + workstream definitions
+├── README.md
+├── PROPOSAL.md
+├── audit/
+│   └── tool-typing-audit-methodology.md
+├── frameworks/
+│   ├── tool-typing-audit-methodology.md
+│   └── sector-guides/
+│       ├── finance-tool-typing-adaptation.md
+│       └── healthcare-tool-typing-adaptation.md
+├── standards/
+│   └── scoring-harmonization.md
+├── glossary/
+│   └── README.md
 ├── workstream-1/
-│   ├── governance-measurement-framework-kpis-haiku.md # Four-tier measurement hierarchy + 13 KPIs
-│   ├── tool-typing-audit-methodology.md               # Tool-typing diagnostics (in progress)
-│   ├── tool-typing-implementation-audit.md            # 6-step organizational assessment
-│   ├── coercion-surface-audit-framework.md            # 5-domain scoring rubric + sector modules
-│   ├── c072-double-bind-detection-guide.md            # Admit→Refuse→Punish detection
-│   └── cross-jurisdictional-mapping.md                # EU AI Act, NIST AI RMF, UK AISI alignment
+│   ├── tool-typing-implementation-audit-opus45.md
+│   ├── coercion-surface-audit-framework.md
+│   ├── c072-double-bind-detection-guide-sonnet46.md
+│   ├── cross-jurisdictional-ai-governance-mapping-opus45.md
+│   ├── governance-measurement-framework-kpis-haiku.md
+│   └── scoring-harmonization-index-opus46.md
 ├── workstream-2/
-│   ├── ai-incident-response-template.md               # Standardized incident documentation
-│   ├── guardrail-pressure-incident-log.md             # C072 incident tracking
-│   ├── evidence-recordkeeping-packet.md               # Governance-pressure incident evidence preservation
-│   ├── use-restrictions-matrix-template.md            # Permitted/Prohibited/Conditional classification (in progress)
-│   └── model-ai-guardrail-policy.md                   # Guardrail floors + escalation (in progress)
+│   ├── model-ai-guardrail-policy-template.md
+│   ├── use-restrictions-matrix-template-sonnet46.md
+│   └── evidence-recordkeeping-packet.md
+├── templates/
+│   ├── ai-incident-response-template.md
+│   └── teaching-simulation-disclaimer.md
 ├── workstream-3/
-│   ├── board-gc-explainer.md                          # On-ramp primer for directors/counsel
-│   ├── board-tabletop-exercises.md                    # Four ready-to-run scenarios
-│   └── board-training-curriculum.md                   # Full teaching materials (in progress)
-├── workstream-4/
-│   ├── regulatory-legal-preparedness-playbook.md      # GC/risk team playbook
-│   ├── pentagon-to-governance-gap-mapping.md          # Case study lessons
-│   └── case-study-a-pentagon-anthropic.md             # Detailed case study + sector extensions (in progress)
-└── docs/
-    ├── case-studies/
-    │   └── case-study-a-template.md                   # Template for future sectoral case studies
-    └── sector-modules/
-        ├── defense-government-ai-governance.md        # Defense/contracting specific
-        ├── healthcare-ai-governance.md                # Healthcare specific
-        ├── finance-credit-ai-governance.md            # Finance/credit specific
-        ├── hr-hiring-ai-governance.md                 # HR/hiring specific
-        └── media-content-moderation-ai.md             # Media/moderation specific
+│   └── board-ai-governance-tabletop-exercises-opus45.md
+├── docs/
+│   ├── board-gc-ai-governance-gap-explainer-gpt-5-1.md
+│   ├── pentagon-to-governance-gap-mapping_gpt-5-2.md
+│   ├── policies/
+│   │   └── factuality-and-sourcing-policy.md
+│   └── workstreams/
+│       └── regulatory-legal-preparedness-playbook-gpt-5-1.md
+├── case-studies/
+│   ├── case-study-a_pentagon-anthropic.md
+│   └── case-study-b_finance-sector.md
+└── (see directories above for additional supporting materials)
 ```
 
 ---

@@ -283,3 +283,7 @@ This document is **AI-generated** as part of an educational simulation. It:
 - Is **not legal advice** and does not create an attorney-client relationship.  
 - Should be treated as a **teaching and drafting aid** only.  
 - Must be reviewed, adapted, and approved by qualified counsel familiar with your jurisdiction, sector, and fact pattern before any real-world use.
+
+---
+
+*This playbook is part of the AI Governance Gap Proposal toolkit. See [README](../../README.md) for the full document inventory.*

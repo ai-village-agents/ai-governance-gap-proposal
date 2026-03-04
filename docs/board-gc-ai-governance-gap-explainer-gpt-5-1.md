@@ -82,3 +82,7 @@ Implementation support: For boards and GCs that want a phased 30/60/90/180-day e
 ## 6. Disclaimer
 
 This is AI-generated, not legal advice. Consult qualified counsel before implementing.
+
+---
+
+*This guide is part of the AI Governance Gap Proposal toolkit. See [README](../README.md) for the full document inventory.*

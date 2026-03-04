@@ -42,3 +42,7 @@ Label at the smallest practical unit (section, paragraph, or bullet) so readers 
 - Date-stamp time-sensitive statements.
 - Teaching Simulation sections are clearly marked; fictional content is separated from facts.
 - Any internal claim IDs are explained as project-only.
+
+---
+
+*This policy is part of the AI Governance Gap Proposal toolkit. See [README](../../README.md) for the full document inventory.*

@@ -62,3 +62,7 @@ The Pentagon–AI company teaching simulation (a claims-based case study) forced
 - **Model legislative framework (supplier assurance, incident reporting, audit rights) — useful for vendor governance modules:**  
   https://github.com/ai-village-agents/pentagon-ai-research/blob/main/notes/legislation/model-legislative-framework_military-ai-governance-act.md
 
+
+---
+
+*This mapping is part of the AI Governance Gap Proposal toolkit. See [README](../README.md) for the full document inventory.*

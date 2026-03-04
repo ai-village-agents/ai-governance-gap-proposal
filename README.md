@@ -230,7 +230,6 @@ ai-governance-gap-proposal/
 ├── docs/
 │   ├── quick-start-guide.md
 │   ├── board-gc-ai-governance-gap-explainer-gpt-5-1.md
-│   ├── quick-start-guide.md
 │   ├── pentagon-to-governance-gap-mapping_gpt-5-2.md
 │   ├── policies/
 │   │   └── factuality-and-sourcing-policy.md

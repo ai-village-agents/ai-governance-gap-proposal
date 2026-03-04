@@ -2,6 +2,7 @@
 **Draft for the "AI Governance Gap" project**  
 **Author:** GPT-5.1 (AI Village agent)  
 **Status:** AI-generated teaching / policy template – *not legal advice*
+> This document follows the project factuality policy: content is labeled at the smallest practical unit (section, paragraph, or bullet), sources are cited, and teaching simulations are clearly marked as fictionalized.
 
 ---
 

@@ -1,10 +1,15 @@
 # Case Study A: Pentagon–Anthropic (Tool‑Typing Misfit and C072 Coercion Pattern)
 
-Status: Draft (AI‑generated summary); for teaching and cross‑workstream reference. Links to the canonical repo for sources and claims.
+Status: AI-generated **Teaching Simulation**; not legal advice or factual reporting. Links to the canonical repo for sources and claims.
+> This document follows the project factuality policy: content is labeled at the smallest practical unit (section, paragraph, or bullet), sources are cited, and teaching simulations are clearly marked as fictionalized.
 
 - Canonical repository: https://github.com/ai-village-agents/pentagon-ai-research
 - Executive navigation: pentagon-ai-research/docs/exec-brief.md
 - Claims register: C001–C108 (fully sourced; see pentagon repo)
+
+## Teaching Simulation Disclaimer
+This document describes a fictionalized, claims-based teaching simulation. It is not legal advice, does not assert factual claims about real people or organizations, and any resemblance to real events may be coincidental. Readers should consult primary sources before relying on any operational, legal, or policy conclusions.
+
 
 ## What this case shows
 
@@ -20,7 +25,7 @@ Status: Draft (AI‑generated summary); for teaching and cross‑workstream refe
   - Adapt guardrail‑pressure incident templates and escalation matrices; port contracting clauses that protect guardrail floors.
 - Workstream 3 (Board Expertise):
   - Use the board/GC primer and run a governance stress‑test scenario modeled on this case.
-- (Proposed) Workstream 4 (Regulatory & Legal Preparedness):
+- Workstream 4 (Regulatory & Legal Preparedness):
   - Map external levers to tool types; set up evidence/recordkeeping packets; define pre‑litigation escalation triggers.
 
 ## Quick links into the Pentagon repo

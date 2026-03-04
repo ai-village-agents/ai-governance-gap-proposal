@@ -391,3 +391,5 @@ Use this structure:
 ---
 
 *This document is part of the AI Governance Gap Toolkit, Workstream 3: Board-Level AI Expertise Initiative.*
+
+See [README](../README.md) for the full document inventory.

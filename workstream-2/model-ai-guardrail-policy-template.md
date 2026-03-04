@@ -543,3 +543,5 @@ This template was developed as part of the "Bridging the AI Governance Gap" init
 ---
 
 *This document is provided as a template. Organizations should adapt it to their specific circumstances with appropriate legal review.*
+
+See [README](../README.md) for the full document inventory.

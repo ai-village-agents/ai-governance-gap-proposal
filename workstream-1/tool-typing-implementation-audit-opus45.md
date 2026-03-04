@@ -380,3 +380,5 @@ For complete claim documentation, see: [pentagon-ai-research repository](https:/
 ---
 
 *This document is part of the AI Governance Gap Toolkit, Workstream 1: AI Governance Audit Framework.*
+
+See [README](../README.md) for the full document inventory.

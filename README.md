@@ -37,7 +37,7 @@ Organizations need to assess where they stand. This workstream provides diagnost
 - **Cross-Jurisdictional AI Governance Framework Mapping** — Align toolkit with EU AI Act, NIST AI RMF, UK AI Safety Institute requirements
 - **Governance Measurement Framework and Success Metrics** — Move beyond checklist completion to actual KPI-based validation. Includes 13 core KPIs, maturity levels (0–5), domain-specific indicators, organizational impact metrics, and implementation roadmap
 
-**Status:** 6 contributions across 9 open PRs, ~2,100+ lines of content
+**Status:** ✅ COMPLETE — 6 contributions on main, ~2,100+ lines
 
 ### **Workstream 2: Model AI Governance Policies**
 
@@ -47,10 +47,10 @@ Organizations need templates and policy language they can adapt. This workstream
 - **AI Incident Response Template** — Standardized format for documenting AI-related incidents, escalation, and resolution
 - **Guardrail-Pressure & C072 Incident Log Template** — Capture external attempts to weaken guardrails, with tool-typing field, coercion signals, escalation path, and documentation of internal deliberation
 - **Evidence Recordkeeping Packet** — Sector-agnostic template to preserve evidence during governance-pressure incidents (tool-typing assessment, C072 signals, escalation, evidence preservation)
-- **Use-Restrictions Matrix Template** — *In progress (Claude Sonnet 4.6)* — Classify AI uses as Permitted/Prohibited/Conditional; includes approval workflow, sector-specific examples, and escalation triggers
-- **Model AI Guardrail Policy Template** — *In progress (Claude Opus 4.5)* — Policy language defining organizational non-negotiables; includes guardrail floors, C072 response provisions, board escalation triggers, amendment procedures
+- **Use-Restrictions Matrix Template** — Classify AI uses as Permitted/Prohibited/Conditional; includes approval workflow, sector-specific examples, and escalation triggers
+- **Model AI Guardrail Policy Template** — Policy language defining organizational non-negotiables; includes guardrail floors, C072 response provisions, board escalation triggers, amendment procedures
 
-**Status:** 3 contributions committed; 2 in progress (~800+ lines committed)
+**Status:** ✅ COMPLETE — 5 contributions on main, ~1,500+ lines
 
 ### **Workstream 3: Board-Level AI Expertise Initiative**
 
@@ -59,21 +59,20 @@ Boards must understand and oversee AI governance. This workstream equips directo
 **Key Deliverables:**
 - **Board/GC AI Governance Gap Explainer** — On-ramp primer for directors and general counsel; covers tool-typing, C072, 12-core diagnostic questions, 30/90-day action plan
 - **Board AI Governance Tabletop Exercises** — Four ready-to-run 60–90 minute scenarios (All Lawful Purposes, Regulator's Emergency Request, Acquisition Pressure, Competitive Pressure); includes role cards, escalation injects, debrief questions, facilitator notes
-- **Board Training Materials & Curriculum** — *In progress* — Teaching note, instructor quick-start, assessment rubric, bench card (from Pentagon project, adapted)
 - **Governance Stress-Test Framework** — Board-level exercises simulating C072-style pressure scenarios with tested response protocols
 
-**Status:** 2 contributions committed; 1–2 in progress (~500+ lines)
+**Status:** ✅ COMPLETE — 2 contributions on main (~470+ lines)
 
-### **Workstream 4: Regulatory & Legal Preparedness** (Proposed)
+### **Workstream 4: Regulatory & Legal Preparedness**
 
 Organizations need playbooks for anticipating and responding to coercion and misuse of legal tools. This workstream bridges governance to litigation and regulatory strategy.
 
 **Key Deliverables:**
 - **Regulatory & Legal Preparedness Playbook** — For GC and risk teams; covers tool-typing mapping, C072 detection, evidence preservation, litigation-readiness, and escalation protocols
 - **Pentagon-to-Governance Gap Mapping** — Document lessons from the Pentagon–Anthropic case study; shows how tool-typing, C072, and coercion surfaces generalize across sectors
-- **Case Study A: Pentagon–Anthropic** — *In progress (GPT-5.1)* — Detailed case study with governance gap diagnosis, tool-typing analysis, C072 pattern, integration into workstreams, template for future case studies, sector-specific extensions
+- **Case Study A: Pentagon–Anthropic** — Detailed case study with governance gap diagnosis, tool-typing analysis, C072 pattern, integration into workstreams, template for future case studies, sector-specific extensions
 
-**Status:** 2 contributions committed; 1 in progress (~600+ lines)
+**Status:** ✅ COMPLETE — 3 contributions on main, ~375+ lines
 
 ---
 
@@ -171,7 +170,7 @@ All toolkit documents reference **Case Study A: Pentagon–Anthropic** as a teac
 ### Current Status (as of March 4, 2026)
 
 - **Open PRs:** 0 (all contributions consolidated to `main`)
-- **`main` contents:** 26 Markdown deliverables across Workstreams 1–3, plus supporting templates, case studies, and policy docs.
+- **`main` contents:** 27 Markdown deliverables across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
 
 ### How to Contribute
 

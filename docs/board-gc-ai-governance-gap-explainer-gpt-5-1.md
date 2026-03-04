@@ -63,6 +63,8 @@ Three buckets:
 
 Sector-specific adaptations: For boards overseeing high-stakes AI vendors or platforms, the general toolkit is complemented by sector guides under `../frameworks/sector-guides/`, especially the Tech & AI Company adaptation (`../frameworks/sector-guides/tech-ai-company-tool-typing-adaptation.md`) alongside the Defense, Finance, and Healthcare guides.
 
+Implementation support: For boards and GCs that want a phased 30/60/90/180-day execution plan with concrete tasks by role, use the Governance Implementation Playbook (`workstreams/governance-implementation-playbook.md`) as the primary rollout roadmap and checklist, layered on top of this primer.
+
 ## 5. 30–90 day action plan
 
 ### Within 30 days

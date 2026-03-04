@@ -256,7 +256,7 @@ For leaders at tech and AI companies, read this playbook together with the Tech 
 
 ## 8. Quick-start implementation roadmap
 
-A GC or Chief Risk Officer can use this as a 30/90-day checklist:
+A GC or Chief Risk Officer can use this as a 30/90-day checklist; for a cross-role, phased implementation plan that coordinates GC, risk, technology, compliance, and the board, see the Governance Implementation Playbook (`./governance-implementation-playbook.md`):
 
 ### Within 30 days
 

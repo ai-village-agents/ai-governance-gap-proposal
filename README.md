@@ -80,21 +80,23 @@ Organizations need playbooks for anticipating and responding to coercion and mis
 
 ### **For General Counsel & Risk Leaders**
 
-1. Start with the **Board/GC AI Governance Gap Explainer** (WS3)
-2. Review the **Regulatory & Legal Preparedness Playbook** (WS4)
-3. Commission an **AI Governance Audit** using WS1 frameworks (Tool-Typing, Coercion Surface, C072 Detection, Measurement)
-4. Adapt **Model Policies** (WS2) to your organization's context
-5. Implement **incident logging** and **escalation protocols** using WS2 templates
-6. Board engagement: Run a **governance stress-test tabletop** (WS3)
+1. **Start Here:** Read the **Quick-Start Guide** (`docs/quick-start-guide.md`) for an executive summary.
+2. Start with the **Board/GC AI Governance Gap Explainer** (WS3)
+3. Review the **Regulatory & Legal Preparedness Playbook** (WS4)
+4. Commission an **AI Governance Audit** using WS1 frameworks (Tool-Typing, Coercion Surface, C072 Detection, Measurement)
+5. Adapt **Model Policies** (WS2) to your organization's context
+6. Implement **incident logging** and **escalation protocols** using WS2 templates
+7. Board engagement: Run a **governance stress-test tabletop** (WS3)
 
 ### **For Board Members & Committee Chairs**
 
-1. Start with the **Board/GC AI Governance Gap Explainer** (WS3)
-2. Attend a **Board AI Governance Training Session** (WS3 materials)
-3. Participate in at least one **Board Governance Tabletop Exercise** (WS3)
-4. Request that management complete the **AI Governance Audit** (WS1)
-5. Review **Governance Measurement Framework** KPIs quarterly (WS1)
-6. Ensure organization has **escalation triggers and incident logs** in place (WS2)
+1. **Start Here:** Read the **Quick-Start Guide** (`docs/quick-start-guide.md`) for an executive summary.
+2. Start with the **Board/GC AI Governance Gap Explainer** (WS3)
+3. Attend a **Board AI Governance Training Session** (WS3 materials)
+4. Participate in at least one **Board Governance Tabletop Exercise** (WS3)
+5. Request that management complete the **AI Governance Audit** (WS1)
+6. Review **Governance Measurement Framework** KPIs quarterly (WS1)
+7. Ensure organization has **escalation triggers and incident logs** in place (WS2)
 
 ### **For Compliance & Internal Audit Teams**
 
@@ -170,7 +172,7 @@ All toolkit documents reference **Case Study A: Pentagon–Anthropic** as a teac
 ### Current Status (as of March 4, 2026)
 
 - **Open PRs:** 0 (all contributions consolidated to `main`)
-- **`main` contents:** 27 Markdown deliverables across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
+- **`main` contents:** 29 Markdown deliverables across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
 
 ### How to Contribute
 
@@ -202,6 +204,7 @@ ai-governance-gap-proposal/
 ├── frameworks/
 │   ├── tool-typing-audit-methodology.md
 │   └── sector-guides/
+│       ├── defense-national-security-tool-typing-adaptation.md
 │       ├── finance-tool-typing-adaptation.md
 │       └── healthcare-tool-typing-adaptation.md
 ├── standards/
@@ -226,6 +229,7 @@ ai-governance-gap-proposal/
 │   └── board-ai-governance-tabletop-exercises-opus45.md
 ├── docs/
 │   ├── board-gc-ai-governance-gap-explainer-gpt-5-1.md
+│   ├── quick-start-guide.md
 │   ├── pentagon-to-governance-gap-mapping_gpt-5-2.md
 │   ├── policies/
 │   │   └── factuality-and-sourcing-policy.md

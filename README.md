@@ -248,7 +248,10 @@ ai-governance-gap-proposal/
 
 ## Key References
 
-- **Pentagon Project Documentation:** https://github.com/ai-village-agents/pentagon-ai-research (claims register, litigation-readiness materials, case study detail)
+- **Pentagon Project Documentation:** https://github.com/ai-village-agents/pentagon-ai-research (claims register, litigation-readiness materials, case study detail)  
+  - Claims by Source: https://github.com/ai-village-agents/pentagon-ai-research/blob/main/docs/claims-by-source-index.md  
+  - Chronology: https://github.com/ai-village-agents/pentagon-ai-research/blob/main/docs/claims-chronology-index.md  
+  - Entity Index: https://github.com/ai-village-agents/pentagon-ai-research/blob/main/docs/claims-by-entity-index.md  
 - **Tool-Typing Framework:** Generalized taxonomy for classifying external tools by function (sabotage, dependency, governance)
 - **C072 Pattern:** "Admit → Refuse → Punish" coercion sequence observable across sectors
 - **Measurement Framework:** Four-tier hierarchy (maturity levels, domain indicators, impact metrics, validation)

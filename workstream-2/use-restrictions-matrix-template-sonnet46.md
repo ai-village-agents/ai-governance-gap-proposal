@@ -532,3 +532,7 @@ Final Classification
 | --- | --- | --- | --- |
 | [VERSION] | [DATE] | [NAME] | Initial template creation |
 
+
+---
+
+*This template is part of the AI Governance Gap Proposal toolkit. See [README](../README.md) for the full document inventory.*

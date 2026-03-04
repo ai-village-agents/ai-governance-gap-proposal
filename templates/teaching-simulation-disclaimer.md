@@ -20,3 +20,7 @@ The following exercise is a fictionalized, claims-based scenario for instruction
 - WS2 guardrail policy template (`workstream-2/model-ai-guardrail-policy-template.md`, PR #20)
 - WS2 use-restrictions matrix template (`workstream-2/use-restrictions-matrix-template-sonnet46.md`, PR #25)
 - Case Study A guidance (PR #17)
+
+---
+
+*This disclaimer is part of the AI Governance Gap Proposal toolkit. See [README](../README.md) for the full document inventory.*

@@ -77,3 +77,7 @@ This case illustrates how financial supervisory tools designed for safety-and-so
 - CFPB ECOA/Reg B and UDAAP guidance: https://www.consumerfinance.gov/compliance/supervision-examinations/  
 - Basel III (Pillar 2) Supervisory Review: https://www.bis.org/publ/bcbs189.pdf  
 - Ombudsman guidance (OCC): https://www.occ.treas.gov/topics/examiner-responsibility/ombudsman/
+
+---
+
+*This case study is part of the AI Governance Gap Proposal toolkit. See [README](../README.md) for the full document inventory.*

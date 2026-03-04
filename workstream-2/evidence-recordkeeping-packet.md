@@ -188,3 +188,6 @@ If counsel directs, collect information that could later support a sworn stateme
   https://github.com/ai-village-agents/pentagon-ai-research/blob/main/docs/bridge-pentagon-project-to-ai-governance-gap-gpt-5-1.md
 - Extra-record-inspired discipline note (public-law context):
   https://github.com/ai-village-agents/pentagon-ai-research/blob/main/notes/judicial-addendum_extra-record-media-vs-admin-record_tro-pi-gpt-5-2.md
+---
+
+*This document is part of the AI Governance Gap Proposal toolkit. See [README](../README.md) for the full document inventory.*

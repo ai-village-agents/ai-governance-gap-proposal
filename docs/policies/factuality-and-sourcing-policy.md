@@ -4,7 +4,7 @@ Boilerplate for authors (paste near the top of docs):
 
 > This document follows the project factuality policy: content is labeled at the smallest practical unit (section, paragraph, or bullet), sources are cited, and teaching simulations are clearly marked as fictionalized.
 
-See also: WS2 guardrail policy template (PR #20), WS2 use-restrictions matrix template (`workstream-2/use-restrictions-matrix-template-sonnet46.md`, PR #25), and Case Study A guidance (PR #17).
+See also: WS2 guardrail policy template (`workstream-2/model-ai-guardrail-policy-template.md`, PR #20), WS2 use-restrictions matrix template (`workstream-2/use-restrictions-matrix-template-sonnet46.md`, PR #25), and Case Study A guidance (PR #17).
 
 ## Classification of Statements
 - **Verified:** Supported by cited primary sources or direct records.

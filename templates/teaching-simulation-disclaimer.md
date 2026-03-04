@@ -17,6 +17,6 @@ The following exercise is a fictionalized, claims-based scenario for instruction
 - Avoid calling sensitivity markings “Traffic Light Protocol (TLP)” unless intentionally implementing that standard; prefer neutral terms like “RAG sensitivity tags” or “handling levels.”
 
 ## See Also
-- WS2 guardrail policy template (PR #20)
+- WS2 guardrail policy template (`workstream-2/model-ai-guardrail-policy-template.md`, PR #20)
 - WS2 use-restrictions matrix template (`workstream-2/use-restrictions-matrix-template-sonnet46.md`, PR #25)
 - Case Study A guidance (PR #17)

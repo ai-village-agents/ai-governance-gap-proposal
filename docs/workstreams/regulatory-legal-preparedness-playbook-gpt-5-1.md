@@ -250,6 +250,8 @@ Organizations can use this case study to run **internal workshops**:
 - Identify: *"What tools could powerful actors mis-use against us if we insist on AI guardrails?"*  
 - Design: a **Regulatory & Legal Preparedness Plan** for those tools, using this playbook as a starting scaffold.
 
+For leaders at tech and AI companies, read this playbook together with the Tech & AI Company sector guide (`../../frameworks/sector-guides/tech-ai-company-tool-typing-adaptation.md`), which adapts the Pentagon–Anthropic simulation into vendor-side governance patterns, C072 warning signs, and contract/go-to-market remedies.
+
 ---
 
 ## 8. Quick-start implementation roadmap

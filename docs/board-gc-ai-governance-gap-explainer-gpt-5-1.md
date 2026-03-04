@@ -61,6 +61,8 @@ Three buckets:
 - **Workstream 3 – Board Expertise**: Training, stress-test scenarios, committee charters
 - **Workstream 4 – Regulatory & Legal Preparedness**: Litigation-ready documentation
 
+Sector-specific adaptations: For boards overseeing high-stakes AI vendors or platforms, the general toolkit is complemented by sector guides under `../frameworks/sector-guides/`, especially the Tech & AI Company adaptation (`../frameworks/sector-guides/tech-ai-company-tool-typing-adaptation.md`) alongside the Defense, Finance, and Healthcare guides.
+
 ## 5. 30–90 day action plan
 
 ### Within 30 days

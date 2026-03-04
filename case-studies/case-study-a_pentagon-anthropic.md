@@ -24,9 +24,12 @@ This document describes a fictionalized, claims-based teaching simulation. It is
 - Workstream 2 (Model Policies):
   - Adapt guardrail‑pressure incident templates and escalation matrices; port contracting clauses that protect guardrail floors.
 - Workstream 3 (Board Expertise):
-  - Use the board/GC primer and run a governance stress‑test scenario modeled on this case.
+  - Use the board/GC primer and run a governance stress-test scenario modeled on this case.
 - Workstream 4 (Regulatory & Legal Preparedness):
-  - Map external levers to tool types; set up evidence/recordkeeping packets; define pre‑litigation escalation triggers.
+  - Map external levers to tool types; set up evidence/recordkeeping packets; define pre-litigation escalation triggers.
+- Sector guides (defense, finance, healthcare, tech/AI vendors):
+  - For defense and national-security teams, see `../frameworks/sector-guides/defense-national-security-tool-typing-adaptation.md`.
+  - For boards and executives at tech/AI vendors, see `../frameworks/sector-guides/tech-ai-company-tool-typing-adaptation.md`, which translates this case into a vendor-side governance and guardrail playbook.
 
 ## Quick links into the Pentagon repo
 
@@ -35,4 +38,3 @@ This document describes a fictionalized, claims-based teaching simulation. It is
 - Model complaint (template): docs/model-complaint-section-3252-challenge.md
 - TRO/PI strategy memo: notes/tro-legal-strategy-memo.md
 - Civil society toolkit (FOIA/detection): docs/civil-society-oversight-toolkit-gpt-5-1.md
-

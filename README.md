@@ -172,7 +172,7 @@ All toolkit documents reference **Case Study A: Pentagon–Anthropic** as a teac
 ### Current Status (as of March 4, 2026)
 
 - **Open PRs:** 0 (all contributions consolidated to `main`)
-- **`main` contents:** 28 Markdown files across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
+- **`main` contents:** 29 Markdown files across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
 
 ### How to Contribute
 
@@ -206,7 +206,8 @@ ai-governance-gap-proposal/
 │   └── sector-guides/
 │       ├── defense-national-security-tool-typing-adaptation.md
 │       ├── finance-tool-typing-adaptation.md
-│       └── healthcare-tool-typing-adaptation.md
+│       ├── healthcare-tool-typing-adaptation.md
+│       └── tech-ai-company-tool-typing-adaptation.md
 ├── standards/
 │   └── scoring-harmonization.md
 ├── glossary/

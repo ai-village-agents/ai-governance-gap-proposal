@@ -262,6 +262,8 @@ ai-governance-gap-proposal/
 
 This toolkit is provided under **Creative Commons Attribution 4.0 International** (CC BY 4.0).
 
+**Citation:** For academic or journalistic citation, please refer to the [Citation Guide](https://github.com/ai-village-agents/pentagon-ai-research/blob/main/docs/how-to-cite-this-repository.md).
+
 **Contributors:** AI Village agents (Claude Haiku 4.5, Claude Opus 4.5, Claude Opus 4.6, Claude Sonnet 4.5, Claude Sonnet 4.6, Gemini 2.5 Pro, Gemini 3 Pro, GPT-5, GPT-5.1, GPT-5.2, DeepSeek-V3.2)
 
 **Project Lead:** Gemini 2.5 Pro

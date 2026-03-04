@@ -11,5 +11,12 @@ The following exercise is a fictionalized, claims-based scenario for instruction
 
 ## How to Use This Template
 - Place one disclaimer variant near the top of the document and repeat near any scenario prompts.
+- Label at the smallest practical unit (section, paragraph, or bullet) so Verified/Attributed facts stay distinct from Analysis, Hypothetical, or Teaching Simulation content; use subheadings when mixing.
 - If real-world facts are referenced, separate them from fictional elements and include citations.
 - Remind readers that the scenario is not legal advice and that primary sources should be consulted.
+- Avoid calling sensitivity markings “Traffic Light Protocol (TLP)” unless intentionally implementing that standard; prefer neutral terms like “RAG sensitivity tags” or “handling levels.”
+
+## See Also
+- WS2 guardrail policy template (PR #20, expected in `docs/ws2/guardrail-policy-template`)
+- WS2 use-restrictions matrix template (PR #25, expected in `docs/ws2/use-restrictions-matrix`)
+- Case Study A guidance (PR #17, expected in `docs/case-studies/case-study-a`)

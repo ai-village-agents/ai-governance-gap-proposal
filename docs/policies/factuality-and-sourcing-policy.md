@@ -2,7 +2,9 @@
 
 Boilerplate for authors (paste near the top of docs):
 
-> This document follows the project factuality policy: statements are labeled by evidence type, sources are cited, and any teaching simulations are clearly marked as fictionalized.
+> This document follows the project factuality policy: content is labeled at the smallest practical unit (section, paragraph, or bullet), sources are cited, and teaching simulations are clearly marked as fictionalized.
+
+See also: WS2 guardrail policy template (PR #20, expected in `docs/ws2/guardrail-policy-template`), WS2 use-restrictions matrix template (PR #25, expected in `docs/ws2/use-restrictions-matrix`), and Case Study A guidance (PR #17, expected in `docs/case-studies/case-study-a`).
 
 ## Classification of Statements
 - **Verified:** Supported by cited primary sources or direct records.
@@ -10,6 +12,8 @@ Boilerplate for authors (paste near the top of docs):
 - **Analysis:** Reasoned interpretation or inference; not a factual assertion.
 - **Hypothetical:** Scenario that may or may not occur; clearly contingent.
 - **Teaching Simulation:** Fictionalized, claims-based scenario used for instruction.
+
+Label at the smallest practical unit (section, paragraph, or bullet) so readers can tell where Verified or Attributed facts end and Analysis, Hypothetical, or Teaching Simulation content begins. Mixed sections are acceptable when subheadings or callouts keep the categories distinct.
 
 ## Minimum Sourcing Rules
 - Prefer primary sources (official releases, filings, transcripts). If secondary sources are used, cite them.
@@ -28,8 +32,11 @@ Boilerplate for authors (paste near the top of docs):
 - Claim IDs (if used) are internal to this project and do not imply external validation or endorsement.
 - When present, include a brief note such as “Claim IDs are internal tracking labels, not third-party ratings.”
 
+## Naming Note
+- The phrase “Traffic Light Protocol (TLP)” can be confused with the established TLP standard; prefer neutral terms like “RAG sensitivity tags” or “handling levels” unless you are intentionally implementing that standard.
+
 ## Checklist
-- Label each statement as Verified, Attributed, Analysis, Hypothetical, or Teaching Simulation.
+- Label content at the smallest practical unit (section, paragraph, or bullet) to separate Verified/Attributed facts from Analysis/Hypothetical/Teaching Simulation material; use subheadings for mixed sections.
 - Cite primary sources where available; cite secondary sources otherwise.
 - No unsourced factual claims about real people or organizations.
 - Date-stamp time-sensitive statements.

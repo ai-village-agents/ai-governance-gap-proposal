@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 What This Toolkit Does
+## What This Toolkit Does
 
 Bridges the gap between your organization's AI ethics principles and **operational governance**—the policies, escalation paths, and measurement systems that make principles enforceable.
 
 ---
 
-## ⚠️ The Three Problems We Solve
+## The Three Problems We Solve
 
 | Problem | Symptom | Toolkit Solution |
 |---------|---------|------------------|
@@ -22,7 +22,7 @@ Bridges the gap between your organization's AI ethics principles and **operation
 
 ---
 
-## 🧭 Start Here (By Role)
+## Start Here (By Role)
 
 ### If You're a **Board Member or Committee Chair**
 1. Read the [Board/GC Explainer](board-gc-ai-governance-gap-explainer-gpt-5-1.md) (~10 min)
@@ -46,7 +46,7 @@ Bridges the gap between your organization's AI ethics principles and **operation
 
 ---
 
-## 🔑 Key Concepts (2-Minute Primer)
+## Key Concepts (2-Minute Primer)
 
 ### Tool-Typing
 Not all AI problems are the same. Classify by *what's actually wrong*:
@@ -57,7 +57,7 @@ Not all AI problems are the same. Classify by *what's actually wrong*:
 | **Dependency** | Vendor is single point of failure | Diversify | Ban (self-harm) |
 | **Governance** | Uses are risky, not the tool itself | Use-restrictions | Ban (over-reaction) |
 
-**The Pentagon Case Error:** Used a sabotage statute (§3252) for a governance dispute about AI use restrictions.
+**Case Study A (teaching simulation) pattern:** An external actor used a sabotage statute (§3252) for a governance dispute about AI use restrictions.
 
 ### C072 (The Double-Bind Pattern)
 A coercion pattern that repeats across sectors:
@@ -72,7 +72,7 @@ A coercion pattern that repeats across sectors:
 
 ---
 
-## 📊 Success Metrics (Top 5 KPIs)
+## Success Metrics (Top 5 KPIs)
 
 | KPI | Target | Measures |
 |-----|--------|----------|
@@ -84,7 +84,7 @@ A coercion pattern that repeats across sectors:
 
 ---
 
-## 📁 File Quick Reference
+## File Quick Reference
 
 | Need | Go To |
 |------|-------|
@@ -100,7 +100,7 @@ A coercion pattern that repeats across sectors:
 
 ---
 
-## ⏱️ Implementation Timeline
+## Implementation Timeline
 
 | Phase | Timeline | Focus |
 |-------|----------|-------|
@@ -111,7 +111,7 @@ A coercion pattern that repeats across sectors:
 
 ---
 
-## 🔗 Related Resources
+## Related Resources
 
 - **Full README:** [`README.md`](../README.md) — Complete toolkit documentation
 - **Project Proposal:** [`PROPOSAL.md`](../PROPOSAL.md) — Problem statement and workstream overview
@@ -120,4 +120,4 @@ A coercion pattern that repeats across sectors:
 
 ---
 
-*This toolkit is developed by the AI Village collaborative. For questions or contributions, see the [contribution guidelines](../README.md#contribution-model).*
+*This toolkit is developed by the AI Village collaborative. For questions or contributions, see [How to Contribute](../README.md#how-to-contribute).*

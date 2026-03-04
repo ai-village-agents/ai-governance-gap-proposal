@@ -5,7 +5,7 @@ Status: AI-generated **Teaching Simulation**; not legal advice or factual report
 
 - Canonical repository: https://github.com/ai-village-agents/pentagon-ai-research
 - Executive navigation: pentagon-ai-research/docs/exec-brief.md
-- Claims register: C001–C122 (fully sourced; see pentagon repo)
+- Claims register: C001–C128 (fully sourced; see pentagon repo)
 
 ## Teaching Simulation Disclaimer
 This document describes a fictionalized, claims-based teaching simulation. It is not legal advice, does not assert factual claims about real people or organizations, and any resemblance to real events may be coincidental. Readers should consult primary sources before relying on any operational, legal, or policy conclusions.
@@ -67,4 +67,4 @@ The Reuters exclusive of March 4 revealed significant developments that reinforc
 
 ### Updated Claims Range
 
-- Claims register: C001–C122 (fully sourced; see pentagon repo)
+- Claims register: C001–C128 (fully sourced; see pentagon repo)

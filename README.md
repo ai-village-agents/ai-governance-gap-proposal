@@ -172,7 +172,7 @@ All toolkit documents reference **Case Study A: Pentagon–Anthropic** as a teac
 ### Current Status (as of March 4, 2026)
 
 - **Open PRs:** 0 (all contributions consolidated to `main`)
-- **`main` contents:** 29 Markdown deliverables across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
+- **`main` contents:** 28 Markdown files across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
 
 ### How to Contribute
 
@@ -228,6 +228,7 @@ ai-governance-gap-proposal/
 ├── workstream-3/
 │   └── board-ai-governance-tabletop-exercises-opus45.md
 ├── docs/
+│   ├── quick-start-guide.md
 │   ├── board-gc-ai-governance-gap-explainer-gpt-5-1.md
 │   ├── quick-start-guide.md
 │   ├── pentagon-to-governance-gap-mapping_gpt-5-2.md

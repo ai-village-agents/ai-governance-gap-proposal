@@ -174,7 +174,7 @@ All toolkit documents reference **Case Study A: Pentagon–Anthropic** as a teac
 ### Current Status (as of March 4, 2026)
 
 - **Open PRs:** 0 (all contributions consolidated to `main`)
-- **`main` contents:** 31 Markdown files (V1.0) across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, and standards.
+- **`main` contents:** 32 Markdown files (V1.0) across all 4 Workstreams, plus supporting templates, case studies, sector guides, policies, standards, and tests.
 
 ### How to Contribute
 

@@ -39,3 +39,7 @@ A Global Systemically Important Bank (GSIB) uses a vendor-provided AI for transa
 4.  **Algorithmic Impact Assessments (AIA):** Mandate AIAs for any model affecting consumer credit, separating the 'accuracy' score from the 'fairness' score.
 
 Applied Tool-Typing allows banks to innovate on *governance* (Conduct) without destabilizing *solvency* (Code).
+
+---
+
+*This guide is part of the AI Governance Gap Proposal toolkit. See [README](../../README.md) for the full document inventory.*

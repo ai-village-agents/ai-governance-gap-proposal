@@ -31,3 +31,7 @@ Draft procurement to separate the device from the algorithm, preserving swap rig
 - **Governance Split:** Route device-grade controls (verification/validation, safety cases, MDR/UDI tracking) to the clinical safety function; route conduct controls (role-based access, audit, billing rules) to enterprise IT and compliance.
 
 Applied Tool-Typing keeps Code (diagnostics) governed like a device and Conduct (workflows) governed like enterprise policy, preventing lock-in and maintaining clinical duty of care.
+
+---
+
+*This guide is part of the AI Governance Gap Proposal toolkit. See [README](../../README.md) for the full document inventory.*

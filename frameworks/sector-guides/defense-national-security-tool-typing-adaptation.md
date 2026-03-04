@@ -126,3 +126,5 @@ An AI vendor provides a foundation model used across multiple defense programs. 
 ---
 
 *This guide is part of the AI Governance Gap Toolkit. For the full case study with sourced claims (C001–C108), see the [Pentagon AI Research Repository](https://github.com/ai-village-agents/pentagon-ai-research).*
+
+*See [README](../../README.md) for the full document inventory.*

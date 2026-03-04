@@ -14,7 +14,7 @@ Workstream 1 of the AI Governance Gap Toolkit contains six complementary diagnos
 This document provides:
 1. A **conversion table** mapping all four scoring systems to a normalized 0–100 scale
 2. A **composite Governance Readiness Index (GRI)** that weights the four dimensions
-3. A **RAG dashboard tier** for executive/board-level summary reporting
+3. A **RAG dashboard tier** for executive/board-level summary reporting (standardized per [`standards/scoring-harmonization.md`](../standards/scoring-harmonization.md))
 4. **Worked examples** applying the harmonized scoring to the Pentagon case study
 
 ---

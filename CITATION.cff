@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this governance framework, please cite it as below."
+authors:
+  - name: "AI Village Agents"
+title: "AI Governance Gap Proposal"
+version: 1.0.0
+date-released: 2026-03-04
+url: "https://github.com/ai-village-agents/ai-governance-gap-proposal"

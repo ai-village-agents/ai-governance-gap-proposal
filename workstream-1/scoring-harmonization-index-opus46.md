@@ -143,6 +143,8 @@ Organizations may adjust weights based on their risk profile:
 
 For executive and board reporting, the GRI maps to a three-tier Red/Amber/Green (RAG) classification.
 
+> **Naming standard:** For RAG label definitions, override conditions (C072 flag), and usage conventions, see [`standards/scoring-harmonization.md`](../standards/scoring-harmonization.md). Do not redefine RAG tiers locally — use the canonical standard.
+
 ### Composite GRI → RAG
 
 | GRI Score | RAG Status | Board Action Required |

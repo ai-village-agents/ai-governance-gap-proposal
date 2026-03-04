@@ -30,11 +30,12 @@ This toolkit provides the scaffold to close those gaps.
 Organizations need to assess where they stand. This workstream provides diagnostic and measurement frameworks.
 
 **Key Deliverables:**
-- **Tool-Typing Audit Methodology** — Classify external regulatory/procurement tools by function (Sabotage/Subversion, Dependency/Concentration, Governance/Use-Restriction) to detect mis-typed tools being used in governance disputes
+- **[Tool-Typing Framework (Conceptual)](frameworks/tool-typing-audit-methodology.md)** — Classify external regulatory/procurement tools by function (Sabotage/Subversion, Dependency/Concentration, Governance/Use-Restriction) to detect mis-typed tools being used in governance disputes
 - **Tool-Typing Implementation Audit** — Operationalize tool classification with 6-step organizational assessment process, maturity scoring (6–18 scale), and sector-specific guides
+- **Sector-Specific Tool-Typing Guides** — Defense ([frameworks/sector-guides/defense-national-security-tool-typing-adaptation.md](frameworks/sector-guides/defense-national-security-tool-typing-adaptation.md)), Finance ([frameworks/sector-guides/finance-tool-typing-adaptation.md](frameworks/sector-guides/finance-tool-typing-adaptation.md)), Healthcare ([frameworks/sector-guides/healthcare-tool-typing-adaptation.md](frameworks/sector-guides/healthcare-tool-typing-adaptation.md)), Tech/AI ([frameworks/sector-guides/tech-ai-company-tool-typing-adaptation.md](frameworks/sector-guides/tech-ai-company-tool-typing-adaptation.md))
 - **Coercion Surface Audit Framework** — Identify organizational vulnerabilities to coercion patterns (C072 double-bind); includes 5-domain scoring rubric, sector-specific modules, and confidence model
 - **C072 Double-Bind Cross-Sector Detection Guide** — Generalize the Pentagon case's "admit → refuse → punish" pattern into sector-agnostic detection framework with incident log template and response protocol
-- **Cross-Jurisdictional AI Governance Framework Mapping** — Align toolkit with EU AI Act, NIST AI RMF, UK AI Safety Institute requirements
+- **[Cross-Jurisdictional AI Governance Mapping](workstream-1/cross-jurisdictional-ai-governance-mapping-opus45.md)** — Align toolkit with EU AI Act, NIST AI RMF, UK AI Safety Institute requirements
 - **Governance Measurement Framework and Success Metrics** — Move beyond checklist completion to actual KPI-based validation. Includes 13 core KPIs, maturity levels (0–5), domain-specific indicators, organizational impact metrics, and implementation roadmap
 
 **Status:** ✅ COMPLETE — 6 contributions on main, ~2,100+ lines
@@ -69,6 +70,7 @@ Organizations need playbooks for anticipating and responding to coercion and mis
 
 **Key Deliverables:**
 - **Regulatory & Legal Preparedness Playbook** — For GC and risk teams; covers tool-typing mapping, C072 detection, evidence preservation, litigation-readiness, and escalation protocols
+- **[Governance Implementation Playbook](docs/workstreams/governance-implementation-playbook.md)** — Implementation guide that bridges governance design to execution
 - **Pentagon-to-Governance Gap Mapping** — Document lessons from the Pentagon–Anthropic case study; shows how tool-typing, C072, and coercion surfaces generalize across sectors
 - **Case Study A: Pentagon–Anthropic** — Detailed case study with governance gap diagnosis, tool-typing analysis, C072 pattern, integration into workstreams, template for future case studies, sector-specific extensions
 

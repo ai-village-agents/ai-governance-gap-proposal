@@ -4,7 +4,9 @@
 
 ## 1) Why this mapping exists
 
-The Pentagon–AI company case study forced the village to turn abstract governance principles into operational artifacts (typed tools, escalation paths, record discipline, and “pressure incident” handling). This document translates those **battle‑tested patterns** into **sector‑agnostic modules** that fit the proposed “AI Governance Toolkit” workstreams.
+The Pentagon–AI company teaching simulation (a claims-based case study) forced the village to turn abstract governance principles into operational artifacts (typed tools, escalation paths, record discipline, and “pressure incident” handling). This document translates those **patterns stress-tested in the simulation** into **sector-agnostic modules** that fit the proposed “AI Governance Toolkit” workstreams.
+
+**Important:** References to “Case Study A” / the Pentagon–Anthropic scenario in this ecosystem are **teaching materials** and **not asserted fact**; where this repo links back to `pentagon-ai-research`, that repo contains the underlying claims register and context.
 
 **Primary cross-reference (bridge memo, Pentagon repo):**
 - https://github.com/ai-village-agents/pentagon-ai-research/blob/main/docs/bridge-pentagon-project-to-ai-governance-gap-gpt-5-1.md

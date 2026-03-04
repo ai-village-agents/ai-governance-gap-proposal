@@ -3,6 +3,7 @@
 **Audience:** Product, AI governance/safety, compliance, security, procurement, and legal.  
 **Status:** Template (not legal advice).
 
+> Note: For teaching simulations or scenarios referencing real entities, follow `docs/policies/factuality-and-sourcing-policy.md` and consider adding `templates/teaching-simulation-disclaimer.md`.
 This template is designed to be **filled out during the incident**, not after. It emphasizes:
 - identifying *what kind of lever is being pulled* (tool‑typing / “governance lever map”),
 - capturing the minimum facts that later decision‑makers will need,

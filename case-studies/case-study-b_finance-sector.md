@@ -72,7 +72,7 @@ This case illustrates how financial supervisory tools designed for safety-and-so
 - Healthcare: State Medicaid agency ties certification to use of a utilization-management algorithm with known racial bias, using payment holds as leverage.
 
 ## 10. Quick links
-- C072 primer (internal): [link placeholder]  
+- C072 primer (internal): ../workstream-1/c072-double-bind-detection-guide-sonnet46.md
 - OCC 2011-12 / SR 11-7 Model Risk Management: https://www.occ.treas.gov/publications-and-resources/publications/banker-education/files/pub-model-risk-management.pdf  
 - CFPB ECOA/Reg B and UDAAP guidance: https://www.consumerfinance.gov/compliance/supervision-examinations/  
 - Basel III (Pillar 2) Supervisory Review: https://www.bis.org/publ/bcbs189.pdf  

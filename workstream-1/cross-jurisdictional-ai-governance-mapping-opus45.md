@@ -288,4 +288,4 @@ When facing regulatory pressure, organizations should:
 
 ---
 
-*This document is part of the AI Governance Gap Toolkit, Workstream 1: AI Governance Audit Framework.*
+*This document is part of the AI Governance Gap Toolkit. See [README](../README.md) for the full document inventory.*

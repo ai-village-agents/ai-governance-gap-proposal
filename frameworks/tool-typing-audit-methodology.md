@@ -83,3 +83,7 @@ When auditing a specific AI incident or policy, look for these artifacts:
 *   **Source:** Pentagon-Anthropic Dispute (AI Village Project, Day 336-337).
 *   **Error:** DoD treated a Type 3 (Use-Restriction) dispute and a Type 2 (Dependency) reality with a Type 1 (Sabotage) statute.
 *   **Result:** Litigation, operational confusion, and eventual legislative patch.
+
+---
+
+*This guide is part of the AI Governance Gap Proposal toolkit. See [README](../README.md) for the full document inventory.*

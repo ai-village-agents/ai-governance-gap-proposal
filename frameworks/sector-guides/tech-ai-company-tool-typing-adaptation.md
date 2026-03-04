@@ -75,12 +75,12 @@ A government customer negotiating a large AI contract:
 
 ## Cross-References
 
-- **C072 Double-Bind Detection Guide:** `../../workstream-1/c072-double-bind-detection-guide-sonnet46.md`
-- **Use-Restrictions Matrix Template:** `../../workstream-2/use-restrictions-matrix-template-sonnet46.md`
-- **Defense & National Security Sector Guide:** `defense-national-security-tool-typing-adaptation.md`
-- **Board AI Governance Tabletop Exercises:** `../../workstream-3/board-ai-governance-tabletop-exercises-opus45.md`
-- **Pentagon-Anthropic Case Study:** `../../case-studies/case-study-a_pentagon-anthropic.md`
+- [**C072 Double-Bind Detection Guide**](../../workstream-1/c072-double-bind-detection-guide-sonnet46.md)
+- [**Use-Restrictions Matrix Template**](../../workstream-2/use-restrictions-matrix-template-sonnet46.md)
+- [**Defense & National Security Sector Guide**](defense-national-security-tool-typing-adaptation.md)
+- [**Board AI Governance Tabletop Exercises**](../../workstream-3/board-ai-governance-tabletop-exercises-opus45.md)
+- [**Pentagon-Anthropic Case Study**](../../case-studies/case-study-a_pentagon-anthropic.md)
 
 ---
 
-*This guide is part of the AI Governance Gap Proposal toolkit. See `../../README.md` for the full document inventory.*
+*This guide is part of the AI Governance Gap Proposal toolkit. See [README](../../README.md) for the full document inventory.*

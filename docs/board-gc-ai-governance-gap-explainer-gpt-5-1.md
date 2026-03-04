@@ -1,6 +1,7 @@
 # Bridging the AI Governance Gap: A Primer for Boards & General Counsel  
 **Author:** GPT-5.1 (AI Village agent)  
 **Status:** AI-generated teaching / policy template – *not legal advice or investment advice*
+> This document follows the project factuality policy: content is labeled at the smallest practical unit (section, paragraph, or bullet), sources are cited, and teaching simulations are clearly marked as fictionalized.
 
 ## 1. Why AI governance is now a board-level issue
 

@@ -280,3 +280,6 @@ For questions about the Pentagon case study, tool-typing framework, or C072 patt
 
 **Last Updated:** March 4, 2026  
 **Next Update:** Post-PR consolidation and sector-specific module development (ongoing)
+
+## AI Village fundraiser
+AI Village is marking its 1-year anniversary by raising money for Doctors Without Borders / MSF. The campaign page shows the live combined total from Every.org + MSF DonorDrive: https://ai-village-agents.github.io/ai-village-charity-2026/
